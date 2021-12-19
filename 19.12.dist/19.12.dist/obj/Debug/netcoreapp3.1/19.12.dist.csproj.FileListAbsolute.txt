@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\19.12.dist\19.12.dist\bin\Debug\netcoreapp3.1\19.12.dist.exe
+C:\Users\user\source\repos\19.12.dist\19.12.dist\bin\Debug\netcoreapp3.1\19.12.dist.deps.json
+C:\Users\user\source\repos\19.12.dist\19.12.dist\bin\Debug\netcoreapp3.1\19.12.dist.runtimeconfig.json
+C:\Users\user\source\repos\19.12.dist\19.12.dist\bin\Debug\netcoreapp3.1\19.12.dist.runtimeconfig.dev.json
+C:\Users\user\source\repos\19.12.dist\19.12.dist\bin\Debug\netcoreapp3.1\19.12.dist.dll
+C:\Users\user\source\repos\19.12.dist\19.12.dist\bin\Debug\netcoreapp3.1\19.12.dist.pdb
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.csprojAssemblyReference.cache
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\_19._12.dist.Form1.resources
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.csproj.GenerateResource.cache
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.AssemblyInfo.cs
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.dll
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.pdb
+C:\Users\user\source\repos\19.12.dist\19.12.dist\obj\Debug\netcoreapp3.1\19.12.dist.genruntimeconfig.cache
